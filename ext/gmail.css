@@ -18,6 +18,14 @@
 .gH.bAk .zd.bi4,
 .T-I.J-J5-Ji.aZj.T-I-ax7.T-I-Js-Gs.L3,
 .akc.aZ6.YX,
+.gb_Ne.gb_lf > button.gb_nf,
+.nH.oy8Mbf.nn.aeN > .aeO,
+.D.E.G-atb.PY,
+.nH.Wg.aAD.aAr,
+td.apU.xY,
+td.WA.xY,
+.nH.Wg.aAr,
+.ae4.aDM.nH.oy8Mbf > .Cp:first-child,
 .l2.pfiaof            { display: none !important; }
 
 form.gb_Ne.gb_lf      { max-width: 10000px !important; padding: 0; border-radius: 0; }
@@ -26,4 +34,31 @@ form.gb_Ne.gb_lf      { max-width: 10000px !important; padding: 0; border-radius
 
 .gb_Fd.gb_Wd.gb_Md    { padding: 0 !important; }
 
-.gb_Ed.gb_Pd.gb_Ie.gb_xe.gb_Ee > .gb_ze { padding-right: 0 !important; }
+.gb_Ed.gb_Pd.gb_Ie.gb_xe.gb_Ee > .gb_ze { padding-right: 0 !important; padding-left: 0 !important; }
+
+.nM > .aic            { position: fixed; right: 0px; top: 0px; z-index: 1000; }
+.nM > .aic > .z0      { padding: 0; margin: 0; height: auto; }
+.aic .T-I.T-I-KE.L3 { border-radius: 50%; content: '' !important; text-indent: -999px; padding: 0; height: 56px !important; width: 56px !important; min-width: 56px !important; zoom: 1; display: block; position: fixed; top: 20px; left: 50%; margin-left: -28px; }
+.aic .T-I.T-I-KE.L3::before { background-size: 40px; background-position: 7px 7px; }
+
+.WR .z0 { height: 0 !important; margin: 0 !important; }
+
+.nM > .yJ             { padding: 30px 0 0 0; }
+
+.nH.oy8Mbf.nn.aeN { position: fixed; left: 0; top: 50px; z-index: 1000; }
+
+.ae4.nH.oy8Mbf table, table.Bs.nH.iY.bAt { margin-top: 20px; max-width: 800px; margin-left: auto; margin-right: auto; border: none; }
+.ae4.nH.oy8Mbf table td { padding: 4px; background: transparent; }
+.ae4.nH.oy8Mbf table tr { background: transparent; border: none; }
+
+.ae4.nH.oy8Mbf table tr.zA.zE:hover { box-shadow: none; background: rgba(0, 0, 0, 0.03) !important; }
+
+.byl .TO.nZ.aBP { background-color: #e8eaed !important; color: #000 !important; }
+.byl .TO.nZ.aBP .aio.UKr6le > * { color: #000 !important; }
+.byl .TO.nZ.aBP .aio.UKr6le > span > a { color: #000 !important; }
+.byl .TO.nZ.aBP .TN.bzz.aHS-bnt > .qj { background-image: url(https://www.gstatic.com/images/icons/material/system/1x/inbox_black_20dp.png); }
+.byl > .TK > .aim { width: 70%; }
+.byl > .TK > .aim > .TO > .TN { padding-left: 18px !important; }
+
+
+.nH.nn > .no > .nH.nn > .AD { position: fixed !important; width: 80%; right: 10%; }

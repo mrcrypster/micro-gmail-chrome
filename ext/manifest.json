@@ -1,11 +1,11 @@
 {
   "manifest_version": 3,
-  "name": "Micro Gmail",
-  "version": "1.01",
+  "name": "Minimalist Gmail",
+  "version": "1.2",
 
   "description": "Transforms Gmail UI to a minimal, only basic set of features",
 
-  "author": "App-reducer",
+  "author": "app-reducer",
   "content_scripts": [
     {
        "css": [ "gmail.css" ],
@@ -16,5 +16,5 @@
   "homepage_url": "https://github.com/mrcrypster/micro-gmail-chrome",
   "host_permissions": ["https://mail.google.com/*"],
   "offline_enabled": true,
-  "short_name": "Micro Gmail"
+  "short_name": "MicroGmail"
 }
