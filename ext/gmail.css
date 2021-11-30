@@ -25,6 +25,7 @@
 td.apU.xY,
 td.WA.xY,
 td.PF.xY,
+td.oZ-x3.xY,
 .nH.Wg.aAr,
 .ae4.aDM.nH.oy8Mbf > .Cp:first-child,
 .D.E.G-atb,
@@ -47,15 +48,19 @@ form.gb_Ne.gb_lf      { max-width: 10000px !important; padding: 0; border-radius
 
 .WR .z0 { height: 0 !important; margin: 0 !important; }
 
-.nM > .yJ             { padding: 0; position: fixed; top: 40%; }
+.nM > .yJ > .ajl.aib.aZ6            { padding: 0; position: fixed; top: 80px; height: 200px !important; overflow: hidden; }
+.nH.oy8Mbf.nn.aeN                   { width: 1px !important; height: 1px !important; }
 
 .nH.oy8Mbf.nn.aeN { position: fixed; left: 0; top: 50px; z-index: 1000; }
 
 .ae4.nH.oy8Mbf table, table.Bs.nH.iY.bAt { margin-top: 20px; max-width: 800px; margin-left: auto; margin-right: auto; border: none; }
+@media (max-width: 1200px) {
+  .ae4.nH.oy8Mbf, .nH > .nH.g.id { padding-left: 200px; box-sizing: border-box; display: block; margin: 0; }
+}
 .ae4.nH.oy8Mbf table td { padding: 4px; background: transparent !important; }
 .ae4.nH.oy8Mbf table tr { background: transparent !important; border: none; }
 
-.ae4.nH.oy8Mbf table tr.zA.zE:hover { box-shadow: none; background: rgba(0, 0, 0, 0.03) !important; }
+.ae4.nH.oy8Mbf table tr.zA:hover { box-shadow: none; background: rgba(0, 0, 0, 0.03) !important; }
 
 .byl .TO.nZ.aBP { background-color: #e8eaed !important; color: #000 !important; }
 .byl .TO.nZ.aBP .aio.UKr6le > * { color: #000 !important; }
@@ -63,6 +68,7 @@ form.gb_Ne.gb_lf      { max-width: 10000px !important; padding: 0; border-radius
 .byl .TO.nZ.aBP .TN.bzz.aHS-bnt > .qj { background-image: url(https://www.gstatic.com/images/icons/material/system/1x/inbox_black_20dp.png); }
 .byl > .TK > .aim { width: 70%; }
 .byl > .TK > .aim > .TO > .TN { padding-left: 18px !important; }
+.byl > .TK > .aim > .TO { padding: 2px 0; }
 
 
 .nH.nn > .no > .nH.nn > .AD { position: fixed !important; width: 80%; right: 10%; }
