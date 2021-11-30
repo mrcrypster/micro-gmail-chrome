@@ -33,7 +33,12 @@ td.oZ-x3.xY,
 .Xa.wT.aIt.bSyoAf,
 .l2.pfiaof            { display: none !important; }
 
-form.gb_Ne.gb_lf      { max-width: 10000px !important; padding: 0; border-radius: 0; }
+
+.nH.w-asV.aiw, .nH.oy8Mbf.qp, header, .gb_Fd.gb_Wd.gb_Md         { position: static !important; }
+
+form.gb_Ne.gb_lf      { max-width: 10000px !important; padding: 0; border-radius: 0; position: static !important; }
+form.gb_Ne.gb_lf > table.gstl_50.gssb_c { z-index: 10001; position: fixed !important; }
+form.gb_Ne.gb_lf.gb_0e > div { border: 0 !important; }
 
 .nH.w-asV.aiw         { height: 50px; border: none !important; background: #f1f3f4 !important; }
 
@@ -66,7 +71,7 @@ form.gb_Ne.gb_lf      { max-width: 10000px !important; padding: 0; border-radius
 .byl .TO.nZ.aBP .aio.UKr6le > * { color: #000 !important; }
 .byl .TO.nZ.aBP .aio.UKr6le > span > a { color: #000 !important; }
 .byl .TO.nZ.aBP .TN.bzz.aHS-bnt > .qj { background-image: url(https://www.gstatic.com/images/icons/material/system/1x/inbox_black_20dp.png); }
-.byl > .TK > .aim { width: 70%; }
+.byl > .TK > .aim { width: 70%; margin: 2px 0; }
 .byl > .TK > .aim > .TO > .TN { padding-left: 18px !important; }
 .byl > .TK > .aim > .TO { padding: 2px 0; }
 
