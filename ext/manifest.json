@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Minimalist Gmail",
-  "version": "1.3",
+  "version": "1.4",
 
   "description": "Transforms Gmail UI to a minimal, only basic set of features",
 
