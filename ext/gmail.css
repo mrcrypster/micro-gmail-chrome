@@ -31,6 +31,7 @@ td.oZ-x3.xY,
 .D.E.G-atb,
 .Xa.wT.ao4.bSyoAf,
 .Xa.wT.aIt.bSyoAf,
+header > .gb_Jd.gb_0d.gb_Pd > .gb_Id.gb_0c.gb_1c,
 .l2.pfiaof            { display: none !important; }
 
 
@@ -98,7 +99,14 @@ td.oZ-x3.xY,
   box-shadow: none !important;
 }
 
-form.gb_Le.gb_jf > button.gb_lf,
-form.gb_Le.gb_jf > button.gb_if.gb_kf {
+form#aso_search_form_anchor > button {
   display: none;
+}
+
+.gb_oe.gb_me, .gb_Pe > .gb_Qc {
+  display: none !important;
+}
+
+.aeN.WR.BaIAZe.anZ.nH.oy8Mbf.nn > div > div[jsname]:last-child {
+  border: none !important;
 }
