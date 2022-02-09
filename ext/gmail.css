@@ -36,11 +36,10 @@ td.oZ-x3.xY,
 
 .nH.w-asV.aiw, .nH.oy8Mbf.qp, header, .gb_Fd.gb_Wd.gb_Md         { position: static !important; }
 
-form.gb_Ne.gb_lf      { max-width: 10000px !important; padding: 0; border-radius: 0; position: static !important; }
-form.gb_Ne.gb_lf > table.gstl_50.gssb_c { z-index: 10001; position: fixed !important; }
-form.gb_Ne.gb_lf.gb_0e > div { border: 0 !important; }
+#aso_search_form_anchor > table.gstl_50.gssb_c { z-index: 10001 !important; position: fixed !important; width: 100% !important; margin: 0 !important; top: 64px !important; border-bottom: 1px solid #ddd; padding-bottom: 10px !important; left: 0 !important; background: #fff; }
+#aso_search_form_anchor > div { border: 0 !important; }
 
-.nH.w-asV.aiw         { height: 50px; border: none !important; background: #f1f3f4 !important; }
+.nH.w-asV.aiw         { height: 65px; border: none !important; background: #f1f3f4 !important; }
 
 .gb_Fd.gb_Wd.gb_Md    { padding: 0 !important; }
 
@@ -48,7 +47,7 @@ form.gb_Ne.gb_lf.gb_0e > div { border: 0 !important; }
 
 .nM > .aic            { position: fixed; right: 0px; top: 0px; z-index: 1000; }
 .nM > .aic > .z0      { padding: 0; margin: 0; height: auto; }
-.aic .T-I.T-I-KE.L3 { border-radius: 50%; content: '' !important; text-indent: -999px; padding: 0; height: 56px !important; width: 56px !important; min-width: 56px !important; zoom: 1; display: block; position: fixed; top: 20px; left: 50%; margin-left: -28px; }
+.aic .T-I.T-I-KE.L3 { border-radius: 50%; content: '' !important; text-indent: -999px; padding: 0; height: 56px !important; width: 56px !important; min-width: 56px !important; zoom: 1; display: block; position: fixed; bottom: 15px; right: 15px; margin-left: -28px; }
 .aic .T-I.T-I-KE.L3::before { background-size: 40px; background-position: 7px 7px; }
 
 .WR .z0 { height: 0 !important; margin: 0 !important; }
@@ -64,6 +63,7 @@ form.gb_Ne.gb_lf.gb_0e > div { border: 0 !important; }
 }
 .ae4.nH.oy8Mbf table td { padding: 4px; background: transparent !important; }
 .ae4.nH.oy8Mbf table tr { background: transparent !important; border: none; }
+.ae4.nH.oy8Mbf table tr.btb { box-shadow: none !important; background: rgba(0, 0, 0, 0.02) !important; }
 
 .ae4.nH.oy8Mbf table tr.zA:hover { box-shadow: none; background: rgba(0, 0, 0, 0.03) !important; }
 
@@ -77,3 +77,28 @@ form.gb_Ne.gb_lf.gb_0e > div { border: 0 !important; }
 
 
 .nH.nn > .no > .nH.nn > .AD { position: fixed !important; width: 80%; right: 10%; }
+
+.gb_Cd.gb_Uc.gb_Vc,
+.gb_Cd.gb_Nd.gb_Fe.gb_ve.gb_Ce > .gb_je.gb_he,
+.gb_Od.gb_Qa.gb_Cd.gb_Rd > .gb_Ke > .gb_Lc {
+  display: none !important;
+}
+
+#aso_search_form_anchor {
+  position absolute !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  max-width: 100% !important;
+  width: 100% !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  border-image-width: 0 !important;
+  box-shadow: none !important;
+}
+
+form.gb_Le.gb_jf > button.gb_lf,
+form.gb_Le.gb_jf > button.gb_if.gb_kf {
+  display: none;
+}
