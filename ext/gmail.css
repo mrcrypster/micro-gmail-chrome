@@ -48,8 +48,8 @@ header > .gb_Jd.gb_0d.gb_Pd > .gb_Id.gb_0c.gb_1c,
 
 .nM > .aic            { position: fixed; right: 0px; top: 0px; z-index: 1000; }
 .nM > .aic > .z0      { padding: 0; margin: 0; height: auto; }
-.aic .T-I.T-I-KE.L3 { border-radius: 50%; content: '' !important; text-indent: -999px; padding: 0; height: 56px !important; width: 56px !important; min-width: 56px !important; zoom: 1; display: block; position: fixed; bottom: 15px; right: 15px; margin-left: -28px; }
-.aic .T-I.T-I-KE.L3::before { background-size: 40px; background-position: 7px 7px; }
+.aic .T-I.T-I-KE.L3 { z-index: 1; border-radius: 50%; content: '' !important; text-indent: -999px !important; padding: 0; height: 80px !important; line-height: 40px; width: 80px !important; min-width: 80px !important; zoom: 1; display: block; position: fixed; bottom: 15px; right: 15px; margin-left: -40px; }
+.aic .T-I.T-I-KE.L3::before { background-position: top center; width: 100%; height: 40px; margin-top: 25px; }
 
 .WR .z0 { height: 0 !important; margin: 0 !important; }
 
@@ -109,4 +109,33 @@ form#aso_search_form_anchor > button {
 
 .aeN.WR.BaIAZe.anZ.nH.oy8Mbf.nn > div > div[jsname]:last-child {
   border: none !important;
+}
+
+
+.aeN.WR.BaIAZe.anZ.nH.oy8Mbf {
+  display: none;
+}
+
+.Tm.ya {
+  background: none;
+}
+
+.aAw.FgKVne {
+  display: none;
+}
+
+.yJ > .ajl.aib.aZ6 {
+  display: block;
+}
+
+.nM > .aic + div > .ajl.aib.aZ6 {
+  width: 350px !important;
+}
+
+form.gb_Qe.gb_of.aJf {
+  margin-left: 0 !important;
+}
+
+form .gb_rf.gb_lf {
+  margin-left: 0;
 }
